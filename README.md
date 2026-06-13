@@ -1,4 +1,4 @@
-🎓 Enrollment System (Java)
+# 🎓 Enrollment System (Java)
 
 A simple Enrollment Management System developed in Java using Swing (JOptionPane) as part of my academic projects. The application simulates the enrollment process of a college institution, allowing students to register, select courses, choose sections, view subjects and units, apply scholarship discounts, and complete tuition payment transactions.
 
